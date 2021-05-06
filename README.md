@@ -8,7 +8,6 @@ Version 1: <a href="https://mylearningprogress.github.io/CSS/assignment1.html">C
 Version 2: <a href="https://mylearningprogress.github.io/CSS/assignment1.1.html">Click here</a>
 
 <hr>
-<br>
 
 To view Week 4 Project for Introduction to CSS 3 from UNIVERSITY OF MICHIGAN:
 
