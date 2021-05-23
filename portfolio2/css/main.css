@@ -78,7 +78,7 @@ h1{
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 991.98px) {
   header .carousel-inner .item img{
     height: 300px;
   }
