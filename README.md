@@ -14,3 +14,4 @@ To view Week 4 Project for Introduction to CSS 3 from UNIVERSITY OF MICHIGAN:
 Introduction to CSS3 is about ensuring assessibility in your web designs using the principle - P.O.U.R (Perceivable, Operable, Understandable, Robust)
 
 Final Project: <a href="https://mylearningprogress.github.io/CSS/hw1/index.html">Click here</a>
+Capstone Project: <a href="https://mylearningprogress.github.io/CSS/portfolio2/index.html">Click here</a>
