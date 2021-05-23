@@ -82,6 +82,10 @@ h1{
   header .carousel-inner .item img{
     height: 300px;
   }
+  
+  .navbar-brand{
+    font-size: 80%;
+  }
 
   #newsletter h1,
   #newsletter form{
