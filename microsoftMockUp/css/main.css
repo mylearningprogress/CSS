@@ -504,7 +504,7 @@ ul{
     width: 100%;
     row-gap: 35px;
     padding: 15px 0 35px 20px;
-    transform: translateY(-500px);
+    transform: translateY(-600px);
     transition: transform 0.5s ease-in-out;
     /* border: solid; */
     /* display: none; */
@@ -644,6 +644,18 @@ ul{
     display: grid;
     grid-template-columns: 100%;
 
+  }
+  
+  #content-5 h2{
+    font-size: 1.2rem;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  #content-5 p{
+    font-size: 0.8rem;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .footer-inner{
