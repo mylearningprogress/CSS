@@ -16,3 +16,9 @@ Introduction to CSS3 is about ensuring assessibility in your web designs using t
 Final Project: <a href="https://mylearningprogress.github.io/CSS/hw1/index.html">Click here</a>
 <br>
 Capstone Project: <a href="https://mylearningprogress.github.io/CSS/portfolio2/index.html">Click here</a>
+
+<hr>
+
+Website Mockups
+
+Microsoft Official Webpage Mockup: <a href="https://mylearningprogress.github.io/CSS/microsoftMockUp/index.html">Click here</a>
